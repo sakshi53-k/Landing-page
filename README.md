@@ -1,1 +1,2 @@
-# Landing-page
+# CODSOFT-LEVEL 1 TASK 2
+This is the Landing Page repository in Codsoft virtual Internship......
